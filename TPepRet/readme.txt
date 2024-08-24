@@ -9,6 +9,9 @@ Prerequisites:
 -------------
 All environmental information can be found in "environment.yaml".
 
+get models:
+contact wangmeng95@csu.edu.cn to obtain the models.
+
 data preparation:
 -------------
 1. The CDR3 and peptide sequence pairs, as the first column is CDR3 sequence, the second column is peptide sequence, are written to the file 'test.txt';
